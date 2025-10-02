@@ -7,6 +7,6 @@ The blog post "AI Unpacked: What's Hot and What's Next in the World of Artificia
 **Key companies mentioned and their contributions:**
 *   **Google** and **Apple** are recognized for pushing the boundaries of Generative AI, making it more accessible and powerful for various applications.
 *   **NVIDIA** is crucial for providing the specialized Graphics Processing Units (GPUs) that serve as the essential hardware, or "brains," for complex AI operations, underpinning many of these advancements.
-*   The rise of Small Language Models (SLMs) is notable. Unlike large models like ChatGPT, SLMs are efficient, lightweight, and designed for specialized tasks. They consume less power and data, making them ideal for devices with limited resources.
+*   The rise of **Small Language Models (SLMs)** is notable. Unlike large models like ChatGPT, SLMs are efficient, lightweight, and designed for specialized tasks. They consume less power and data, making them ideal for devices with limited resources.
 *   **AI in the workplace** is transforming traditional office tasks. AI automates repetitive tasks, enhances creativity, and supports decision-making. New roles like prompt engineers are emerging to optimize AI use.
 *   **Hardware and data** remain crucial foundations. NVIDIA is highlighted for its GPUs, which provide the computational power essential for complex AI operations.
